@@ -1,7 +1,10 @@
 # Principios-C-Sharp-
+
 C#
 Ejercicios basicos de C#
+
 Practicas con:
+
 Realización de operaciones básicas con números en C#
 
 Almacenamiento y recuperación de datos mediante valores literales y de variable en C#
